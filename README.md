@@ -1,17 +1,17 @@
 # Degrees of Separation
 
-## Descripción
-Este proyecto implementa un algoritmo para encontrar el número mínimo de "grados de separación" entre dos actores, basado en su participación compartida en películas, utilizando datos de IMDb.
+## Description
+This project implements an algorithm to find the minimum number of "degrees of separation" between two actors, based on their shared movie appearances using IMDb data.
 
-## Instalación
-Para ejecutar este proyecto, necesitarás Python y acceso a los datos en formato CSV. Sigue estos pasos para configurar el ambiente:
+## Installation
+To run this project, you will need Python and access to CSV data files. Follow these steps to set up the environment:
 
-1. Clona este repositorio.
-2. Asegúrate de tener Python instalado.
-3. Descarga los archivos CSV necesarios o utiliza los incluidos en la carpeta `data`.
+1. Clone this repository.
+2. Ensure you have Python installed.
+3. Download the necessary CSV files or use the ones included in the `data` folder.
 
-## Uso
-Para ejecutar el programa, navega a la carpeta del proyecto y ejecuta el siguiente comando en la terminal:
+## Usage
+To execute the program, navigate to the project folder and run the following command in your terminal:
 
 ```bash
-python degrees.py [directorio con datos CSV]
+python degrees.py [directory with CSV files]
